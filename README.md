@@ -15,9 +15,7 @@ Welcome to the Agile Planning Poker app! This simple web application allows team
 
 ## Live Demo
 
-You can access the live version of the app [here](https://yourusername.github.io/agile-planning-poker/).
-
-*Note: Replace `yourusername` with your actual GitHub username.*
+You can access the live version of the app [here](https://mthwndrsn.github.io/agile-planning-poker/).
 
 ## Setup and Deployment
 
