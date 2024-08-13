@@ -40,10 +40,6 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgments
-
-This project was inspired by Agile methodology and is intended to help teams easily conduct planning poker sessions.
-
 ---
 
 Feel free to customize this `README.md` to better fit your project and needs.
